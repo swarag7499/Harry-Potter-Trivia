@@ -3,7 +3,7 @@ let questions = [
     {
     numb: 1,
     question: "What position does Harry play on his Quidditch team?",
-    answer: "Keeper",
+    answer: "Seeker",
     options: [
       "Keeper",
       "Seeker",
